@@ -7,3 +7,7 @@ function theBeatlesPlay(musicians, instruments) {
   }
   return musicianInstrument;
 }
+
+function johnLennonFacts() {
+  
+}
